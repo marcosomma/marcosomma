@@ -19,7 +19,7 @@ I have a lot of "interest", but mainly:
 Years of practice and knowledge about all those different fields push me to be an "out of box" thinker.
 As Emily says, I think, I breathe and I live in the intersection area of multiple fields. This makes me more creative at the moment of solving complex problems.
 
-### SOMETNINGS MORE...
+#### SOMETNINGS MORE...
 Born in 1979 in Gragnano (the city of the real Italian pasta), from 2009 I'm floating around Europe, now living in Barcelona.
 
 Fascinated by the concept behind the Teal Organisation, I’m also a fervent supporter of it. I deeply believe that the best way for a company to succeed is to have people that strongly feel the ownership of the product that they are developing.
