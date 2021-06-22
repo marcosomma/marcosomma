@@ -21,6 +21,7 @@ As Emily says, I think, I breathe and I live in the intersection area of multipl
 
 ### SOMETNINGS MORE...
 Born in 1979 in Gragnano (the city of the real Italian pasta), from 2009 I'm floating around Europe, now living in Barcelona.
+
 Fascinated by the concept behind the Teal Organisation, I’m also a fervent supporter of it. I deeply believe that the best way for a company to succeed is to have people that strongly feel the ownership of the product that they are developing.
 
 From 2012 to 2017 I have been joining startups since the early stages. Then in 2018 together with some ex coworkers I found ABZU.AI. Currently looking for new challenges!
