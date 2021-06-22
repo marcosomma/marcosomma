@@ -1,5 +1,6 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosomma&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosomma&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosomma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 Thanks to Emilie Wapnick I realise that I'm a Multipotentialities!
 What is a Multipotentialities?
