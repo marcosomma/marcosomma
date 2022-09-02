@@ -3,6 +3,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosomma&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Marco's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcosomma)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 Thanks to Emilie Wapnick I realise that I'm a Multipotentialities!
 What is a Multipotentialities?
