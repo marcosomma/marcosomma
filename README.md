@@ -1,9 +1,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosomma&show_icons=true&theme=prussian&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosomma&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Marco's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcosomma)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosomma&theme=prussian&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 Thanks to Emilie Wapnick I realise that I'm a Multipotentialities!
