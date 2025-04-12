@@ -12,7 +12,7 @@ In a field that's constantly evolving, my multipotentiality is my greatest asset
 
 ---
 # Some Cool Repo 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosomma&repo=rn_ts_boilerplate&show_owner=true)](https://github.com/marcosomma/rn_ts_boilerplate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosomma&repo=orka&show_owner=true)](https://github.com/marcosomma/orka)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosomma&repo=react-mui-three-boilerplate-2023&show_owner=true)](https://github.com/marcosomma/react-mui-three-boilerplate-2023)
 
