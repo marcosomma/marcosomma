@@ -1,34 +1,41 @@
-
+<div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosomma&theme=prussian&layout=compact&langs_count=8&&hide=HTML,Shell,CSS,GLSL&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosomma&show_icons=true&theme=prussian&count_private=true&hide=stars,contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats) -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 
-### Hi there 👋
-As a self-proclaimed multipotentialite, my career isn't confined to a single path. I wear many hats – from a tech enthusiast to an innovation catalyst. My journey is more than an 'impressive job title'; it's about exploring the vast realms of technology and applying my diverse skills in JavaScript, Python, C#, C++, AR/VR, and more.
+[![trophy](https://github-profile-trophy.vercel.app/?username=marcosomma&theme=oldie&no-frame=true&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
-Being a multipotentialite in the tech world means I thrive on variety and complexity. I’m a problem-solver at heart, constantly bridging the gap between multifaceted ideas and tangible realities. Whether it’s developing cutting-edge software, diving into the immersive world of AR/VR, or pioneering new solutions in DevOps, I bring a unique blend of creativity, technical expertise, and an unquenchable thirst for learning.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Cognitive+AI+Developer;Mind+behind+OrKa&font=Fira%20Code¢er=true&width=380&height=50)
 
-In a field that's constantly evolving, my multipotentiality is my greatest asset. It allows me to adapt, learn, and excel in various aspects of technology. My profile isn't just a showcase of what I've done; it's a canvas of what's possible when you combine diverse skills with a passion for innovation. Here's to the unconventional, the curious, and the bold explorers of technology!
+I build at the intersection of code, creativity, and curiosity. From JavaScript prototypes to C++ render loops, from Python data plumbing to C# XR interactions, I treat every tech stack as a canvas for rapid experimentation. I treat every tech stack as a playground for ideas. From JavaScript prototypes and Python data plumbing to C++ render loops and C# mixed-reality scenes, I build fast and learn faster.
+
+#### What I Do
+- **Ship** full-stack apps, cloud pipelines, and immersive AR/VR experiences  
+- **Bridge** disciplines, turning half-formed questions into running demos  
+- **Automate** everything possible with GitHub Actions, Docker, and modern DevOps
+
+#### Current Obsessions
+- orka-reasoning  
+- Spatial computing and the open Metaverse  
+- AI-powered developer workflows  
+- Developer-first platform engineering
+
+#### Core Toolkit
+Python • JavaScript / TypeScript • C# • C++  
+Unity & Unreal • Three.js / WebGL  
+Docker • Kubernetes • GitHub Actions • AWS & Azure
+
+#### How I Work
+I pick the right tool for each challenge, keep commits small and readable, and leave every repo clearer than I found it.
+
+*Always open to collaboration, pair-programming, and bold ideas. Let’s build something audacious.*
 
 ---
-# Some Cool Repo 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosomma&repo=orka&show_owner=true)](https://github.com/marcosomma/orka)
+### Some Cool Repo 
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosomma&repo=orka-reasoning&show_owner=true)](https://github.com/marcosomma/orka-reasoning) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosomma&repo=webxr-examples&show_owner=true)](https://github.com/marcosomma/webxr-examples) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosomma&repo=ant-sim&show_owner=true)](https://github.com/marcosomma/ant-sim) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosomma&repo=react-mui-three-boilerplate-2023&show_owner=true)](https://github.com/marcosomma/react-mui-three-boilerplate-2023)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosomma&repo=webxr-examples&show_owner=true)](https://github.com/marcosomma/webxr-examples)
-
-<!--
-**marcosomma/marcosomma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
