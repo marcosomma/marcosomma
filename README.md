@@ -1,41 +1,48 @@
 <div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosomma&theme=prussian&layout=compact&langs_count=8&&hide=HTML,Shell,CSS,GLSL&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
+# Hi, I'm Marco
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=marcosomma&theme=oldie&no-frame=true&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+**Tech lead by day. Simulation builder by night.**
+
+I orchestrate LLM agents for a living and spend my evenings making ants, atoms and galaxies run in a browser tab.
+
+[Website](https://marcosomma.github.io/) · [OrKa](https://orkacore.com/) · [ant-sim live](https://marcosomma.github.io/ant-sim/) · [datapoints live](https://marcosomma.github.io/datapoints/)
+
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Cognitive+AI+Developer;Mind+behind+OrKa&font=Fira%20Code¢er=true&width=380&height=50)
+## Now
 
-I build at the intersection of code, creativity, and curiosity. From JavaScript prototypes to C++ render loops, from Python data plumbing to C# XR interactions, I treat every tech stack as a canvas for rapid experimentation. I treat every tech stack as a playground for ideas. From JavaScript prototypes and Python data plumbing to C++ render loops and C# mixed-reality scenes, I build fast and learn faster.
+- **[OrKa](https://github.com/marcosomma/orka-reasoning)**: Orchestrator Kit for Agentic Reasoning. YAML-declared graphs of LLM agents with memory, fact-checking and a full trace of every decision. My longest-running open source project.
+- **Browser simulations in Babylon.js**: emergent behaviour you can poke at, no install. Ants that allocate work with nobody in charge, a powers-of-ten explorer built from real datasets, and evolving populations trained headless then dropped into 3D.
+- **AI-assisted engineering**: spec-driven development with planner, executor and reviewer agents, and what it takes to keep a team's AI-generated code consistent.
 
-#### What I Do
-- **Ship** full-stack apps, cloud pipelines, and immersive AR/VR experiences  
-- **Bridge** disciplines, turning half-formed questions into running demos  
-- **Automate** everything possible with GitHub Actions, Docker, and modern DevOps
+## Featured
 
-#### Current Obsessions
-- orka-reasoning  
-- Spatial computing and the open Metaverse  
-- AI-powered developer workflows  
-- Developer-first platform engineering
+| Project | What it is | Try it |
+| --- | --- | --- |
+| [orka-reasoning](https://github.com/marcosomma/orka-reasoning) | Modular orchestration for reasoning agents with transparent traceability | `pip install orka-reasoning` |
+| [ant-sim](https://github.com/marcosomma/ant-sim) | Anthill simulator based on Gordon's distributed task allocation, not pheromone trails | [Live](https://marcosomma.github.io/ant-sim/) |
+| [datapoints](https://github.com/marcosomma/datapoints) | Zoom from an electron cloud to the local universe, every particle a real datapoint | [Live](https://marcosomma.github.io/datapoints/) |
+| [evolut](https://github.com/marcosomma/evolut) | Genetic populations solving problem families, trained headless, rendered in 3D | Work in progress |
+| [webxr-examples](https://github.com/marcosomma/webxr-examples) | WebXR scenes in Babylon.js wrapped in React | Source |
 
-#### Core Toolkit
-Python • JavaScript / TypeScript • C# • C++  
-Unity & Unreal • Three.js / WebGL  
-Docker • Kubernetes • GitHub Actions • AWS & Azure
+## Toolkit
 
-#### How I Work
-I pick the right tool for each challenge, keep commits small and readable, and leave every repo clearer than I found it.
+**Languages**: Python · TypeScript / JavaScript · C# · C++
+**AI**: LLM orchestration, agent memory, evaluation, local models with Ollama
+**Graphics**: Babylon.js · Three.js / WebGL · WebXR · Unity · Unreal
+**Ops**: Docker · Kubernetes · GitHub Actions · AWS · Azure
 
-*Always open to collaboration, pair-programming, and bold ideas. Let’s build something audacious.*
+## How I work
 
----
-### Some Cool Repo 
+- Prototype first. A running demo settles more arguments than a design document.
+- Deterministic where it matters, generative where it helps. Rules and graphs for the parts that must be right, LLMs for language.
+- Small commits, readable history, and every repo left clearer than I found it.
+
 <div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosomma&repo=orka-reasoning&show_owner=true)](https://github.com/marcosomma/orka-reasoning) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosomma&repo=webxr-examples&show_owner=true)](https://github.com/marcosomma/webxr-examples) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosomma&repo=ant-sim&show_owner=true)](https://github.com/marcosomma/ant-sim) 
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosomma&theme=prussian&layout=compact&langs_count=8&hide=HTML,Shell,CSS,GLSL&hide_progress=true)](https://github.com/marcosomma?tab=repositories)
+
+*Open to collaboration, pair programming and bold ideas.*
 
 </div>
