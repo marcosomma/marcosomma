@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=marcosomma&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=@marcosomma&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
 
 [![typing](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=AI+lead+by+day;Simulation+builder+by+night;Mind+behind+OrKa;Ants-sim;Evolut;Atoms+and+galaxies+in+a+browser+tab)](https://github.com/marcosomma)
 
