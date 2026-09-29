@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Marco
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=marcosomma&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
 
-**Tech lead by day. Simulation builder by night.**
+[![typing](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Tech+lead+by+day;Simulation+builder+by+night;Mind+behind+OrKa;Ants%2C+atoms+and+galaxies+in+a+browser+tab)](https://github.com/marcosomma)
 
 I orchestrate LLM agents for a living and spend my evenings making ants, atoms and galaxies run in a browser tab.
 
@@ -28,10 +28,13 @@ I orchestrate LLM agents for a living and spend my evenings making ants, atoms a
 
 ## Toolkit
 
-**Languages**: Python · TypeScript / JavaScript · C# · C++
-**AI**: LLM orchestration, agent memory, evaluation, local models with Ollama
-**Graphics**: Babylon.js · Three.js / WebGL · WebXR · Unity · Unreal
-**Ops**: Docker · Kubernetes · GitHub Actions · AWS · Azure
+<div align="center">
+
+[![skills](https://skillicons.dev/icons?i=py,ts,js,cs,cpp,react,nodejs,pytorch,sklearn,threejs,unity,unreal,docker,kubernetes,githubactions,aws,azure,redis,postgres&perline=10)](https://skillicons.dev)
+
+Plus Babylon.js and WebXR for everything that runs in 3D, and Ollama for local models.
+
+</div>
 
 ## How I work
 
@@ -41,7 +44,12 @@ I orchestrate LLM agents for a living and spend my evenings making ants, atoms a
 
 <div align="center">
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosomma&theme=prussian&layout=compact&langs_count=8&hide=HTML,Shell,CSS,GLSL&hide_progress=true)](https://github.com/marcosomma?tab=repositories)
+[![streak](https://streak-stats.demolab.com/?user=marcosomma&theme=tokyonight&hide_border=true)](https://github.com/marcosomma)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosomma/marcosomma/output/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/marcosomma/marcosomma/output/github-contribution-grid-snake.svg">
+</picture>
 
 *Open to collaboration, pair programming and bold ideas.*
 
