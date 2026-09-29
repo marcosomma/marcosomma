@@ -6,7 +6,7 @@
 
 I orchestrate LLM agents for a living and spend my evenings making ants, atoms and galaxies run in a browser tab.
 
-[Website](https://marcosomma.github.io/) · [OrKa](https://orkacore.com/) · [ant-sim live](https://marcosomma.github.io/ant-sim/) · [datapoints live](https://marcosomma.github.io/datapoints/)
+[Website](https://marcosomma.github.io/) · [OrKa](https://orkacore.com/) · [ant-sim live](https://marcosomma.github.io/ant-sim/) · [datapoints live](https://marcosomma.github.io/datapoints/) · [evolut live](https://marcosomma.github.io/evolut/)
 
 </div>
 
@@ -23,7 +23,7 @@ I orchestrate LLM agents for a living and spend my evenings making ants, atoms a
 | [orka-reasoning](https://github.com/marcosomma/orka-reasoning) | Modular orchestration for reasoning agents with transparent traceability | `pip install orka-reasoning` |
 | [ant-sim](https://github.com/marcosomma/ant-sim) | Anthill simulator based on Gordon's distributed task allocation, not pheromone trails | [Live](https://marcosomma.github.io/ant-sim/) |
 | [datapoints](https://github.com/marcosomma/datapoints) | Zoom from an electron cloud to the local universe, every particle a real datapoint | [Live](https://marcosomma.github.io/datapoints/) |
-| [evolut](https://github.com/marcosomma/evolut) | Genetic populations solving problem families, trained headless, rendered in 3D | Work in progress |
+| [evolut](https://github.com/marcosomma/evolut) | Genetic populations solving problem families, trained headless, rendered in 3D | [Live](https://marcosomma.github.io/evolut/) |
 | [webxr-examples](https://github.com/marcosomma/webxr-examples) | WebXR scenes in Babylon.js wrapped in React | Source |
 
 ## Toolkit
