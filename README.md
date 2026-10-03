@@ -21,6 +21,7 @@ I orchestrate LLM agents for a living and spend my evenings making ants, atoms a
 | Project | What it is | Try it |
 | --- | --- | --- |
 | [orka-reasoning](https://github.com/marcosomma/orka-reasoning) | Modular orchestration for reasoning agents with transparent traceability | `pip install orka-reasoning` |
+| [prompt-spider](https://github.com/marcosomma/prompt-spider) | Where a prompt pushes a model to focus, and where it doesn't | [Live](https://marcosomma.github.io/prompt-spider/) |
 | [ant-sim](https://github.com/marcosomma/ant-sim) | Anthill simulator based on Gordon's distributed task allocation, not pheromone trails | [Live](https://marcosomma.github.io/ant-sim/) |
 | [datapoints](https://github.com/marcosomma/datapoints) | Zoom from an electron cloud to the local universe, every particle a real datapoint | [Live](https://marcosomma.github.io/datapoints/) |
 | [evolut](https://github.com/marcosomma/evolut) | Genetic populations solving problem families, trained headless, rendered in 3D | [Live](https://marcosomma.github.io/evolut/) |
